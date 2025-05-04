@@ -55,14 +55,14 @@ As a solo developer on this project, I am responsible for fulfilling all major r
 
 | Role             | Responsibilities                                                                 | Handled By |
 |------------------|----------------------------------------------------------------------------------|------------|
-| Project Manager  | Planned timelines, tracked progress, and ensured timely delivery                 | Myself     |
-| Frontend Developer | Developed UI components, implemented responsive design, and integrated APIs   | Myself     |
-| Backend Developer  | Designed database schema, created REST APIs, and implemented business logic   | Myself     |
-| UI/UX Designer     | Analyzed Figma designs, selected typography/color styles, and ensured consistency | Myself  |
-| QA/Tester          | Wrote test cases, performed manual testing, and documented bugs               | Myself     |
-| DevOps Engineer    | Set up version control, deployment strategy, and CI/CD pipeline               | Myself     |
-| Product Owner      | Defined key features, prioritized tasks, and maintained project scope         | Myself     |
-| Scrum Master       | Organized tasks, removed blockers, and adapted Agile principles               | Myself     |
+| Project Manager  | Planned timelines, tracked progress, and ensured timely delivery                 | Aicha Lahnite     |
+| Frontend Developer | Developed UI components, implemented responsive design, and integrated APIs   | Aicha Lahnite     |
+| Backend Developer  | Designed database schema, created REST APIs, and implemented business logic   | Aicha Lahnite     |
+| UI/UX Designer     | Analyzed Figma designs, selected typography/color styles, and ensured consistency | Aicha Lahnite  |
+| QA/Tester          | Wrote test cases, performed manual testing, and documented bugs               | Aicha Lahnite     |
+| DevOps Engineer    | Set up version control, deployment strategy, and CI/CD pipeline               | Aicha Lahnite     |
+| Product Owner      | Defined key features, prioritized tasks, and maintained project scope         | Aicha Lahnite     |
+| Scrum Master       | Organized tasks, removed blockers, and adapted Agile principles               | Aicha Lahnite     |
 
 ## UI Component Patterns
 
